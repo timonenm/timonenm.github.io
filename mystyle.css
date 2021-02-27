@@ -1,7 +1,4 @@
-background {
-	color: powderblue;
-}
-
-h1 {
-	font: Lato;
+body {
+	font-family: 'Lato', Helvetica;
+	background-color: paleturquoise;
 }
