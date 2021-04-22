@@ -1,0 +1,61 @@
+body {
+	font-family: 'Lato', Helvetica;
+	background-color: grey;
+	width: 800px;
+
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#yhteys {
+   	background-color: white;
+    padding: 55px;
+}
+
+#tyot {
+	background-color: paleturquoise;
+  padding: 19px;
+
+}
+
+#koulu {
+	background-color: #E8ADAA;
+  padding: 19px;
+
+}
+
+#luottamus {
+	background-color: lightblue;
+  padding: 19px;
+
+}
+
+#kielitaito {
+	background-color: lightgrey;
+  padding: 19px;
+
+}
+
+#tietotek {
+	background-color: lightgrey;
+  padding: 19px;
+
+}
+
+img {
+	width: 300px;
+	height: 300px;
+	margin-right: 10px;
+}
+
+#omakuva {
+	float: right;
+
+}
+.header {
+  padding: 15px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 22px;
+}
