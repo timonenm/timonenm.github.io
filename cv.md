@@ -107,6 +107,8 @@ MUU KOULUTUS: ​Hygieniapassi, B-ajokortti
 
 <strong>AINEJÄRJESTÖ LUUPPI RY Tampereen yliopistossa</strong> <br>
 
+2022 sosiaalipoliittinen vastaava, LuuppiSanomien päätoimittaja <br>
+
 2021 viestintävastaava, toimittaja <br>
 
 2020 sihteeri <br>
