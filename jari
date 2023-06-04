@@ -13,6 +13,7 @@
 
 <body>
 <h1><STRONG> JARI PÄÄSEE ELÄKKEELLE* </h1> <br><br>
+<div class="header"> 
 <p id="demo">
 <script>
 // Set the date we're counting down to
@@ -34,8 +35,8 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
   // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = days + "päivän " + hours + "tunnin "
-  + minutes + "minuutin " + seconds + "sekunnin kuluttua. ";
+  document.getElementById("demo").innerHTML = days + " päivän, " + hours + " tunnin, "
+  + minutes + " minuutin ja " + seconds + " sekunnin kuluttua. ";
 
   // If the count down is finished, write some text
   if (distance < 0) {
@@ -45,5 +46,6 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 </p> 
+</div>
 </body>
 </html>
